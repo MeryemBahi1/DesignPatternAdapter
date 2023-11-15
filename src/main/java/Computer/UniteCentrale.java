@@ -1,3 +1,5 @@
+package Computer;
+
 public class UniteCentrale {
     private VGA vga;
     public  void print(String message){
